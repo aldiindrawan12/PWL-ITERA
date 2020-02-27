@@ -35,7 +35,6 @@ ubah ke
 |Dhiko JangJaya Putra | 14117016 | https://github.com/magisto16/14117016-PWL-ITERA |
 |Nurul Hakim    | 14117029 | https://github.com/NurulHakim/14117029-PWL |
 |Annisa Gita Asmara | 14116027 | https://github.com/aannisagita/Tugas-PWL1 |
-
-|\<Aldi Indrawan>|\<14117055>|\<https://github.com/aldiindrawan12/14117055-PWL>|
+|Aldi Indrawan|14117055|https://github.com/aldiindrawan12/14117055-PWL|
 
 ### Lanjutin
