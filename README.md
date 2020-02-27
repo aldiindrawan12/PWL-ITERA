@@ -36,6 +36,6 @@ ubah ke
 |Nurul Hakim    | 14117029 | https://github.com/NurulHakim/14117029-PWL |
 |Annisa Gita Asmara | 14116027 | https://github.com/aannisagita/Tugas-PWL1 |
 
-|\<namalu>|\<nimlu>|\<linkgitlu>|
+|aldi indrawan|14117055||
 
 ### Lanjutin
